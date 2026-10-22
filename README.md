@@ -162,7 +162,7 @@ Loan-Default-Risk-Analysis/
 │   └── 03_Data_Preparation_and_KPIs.sql
 │
 ├── PowerBI/
-│   └── Loan_Default_Risk_Analysis.pbix
+│   └── PowerBI/Loan_Default_Risk_Dashboard%20FINAL.pbix
 │
 └── Screenshots/
     ├── 01_Executive_Overview.png
@@ -176,7 +176,7 @@ The SQL scripts are available in the `SQL` folder and document the analysis from
 
 The dashboard screenshots can be viewed directly in this README.
 
-To explore the interactive report, download [Loan_Default_Risk_Analysis.pbix](PowerBI/Loan_Default_Risk_Analysis.pbix) and open it in Power BI Desktop.
+To explore the interactive report, download [Loan_Default_Risk_Analysis.pbix](PowerBI/Loan_Default_Risk_Dashboard%20FINAL.pbix) and open it in Power BI Desktop.
 
 Refreshing the report requires access to a compatible data source.
 
